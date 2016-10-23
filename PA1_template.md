@@ -244,4 +244,5 @@ g + geom_line(size=1) +
 ![plot of chunk panelPlot](figure/panelPlot-1.png)
 ```
 ```
+```
 
