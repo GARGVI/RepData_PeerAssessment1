@@ -1,5 +1,6 @@
 
 
+```r
 # Activity Monitoring Device
 
 ## Introduction
@@ -11,7 +12,14 @@ This assignment makes use of data from a personal activity monitoring device. Th
 ##Peer assessment
 
 ###1. Code for reading in the dataset and/or processing the data
+```
 
+```
+## Error: <text>:5:4: unexpected symbol
+## 4: 
+## 5: It is
+##       ^
+```
 
 ```r
 library(ggplot2)
@@ -229,6 +237,7 @@ g + geom_line(size=1) +
 ```
 
 ![plot of chunk panelPlot](figure/panelPlot-1.png)
+```
 ```
 ```
 ```
