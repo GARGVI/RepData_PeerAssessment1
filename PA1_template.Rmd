@@ -1,5 +1,5 @@
 
-```{r setup, include=FALSE}
+```{r setup, echo =FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 # Activity Monitoring Device
@@ -148,6 +148,7 @@ g + geom_line(size=1) +
     labs(title = "Average number of steps per 5-minute interval across weekdays and weekends")
     
 
+```
 ```
 ```
 ```
