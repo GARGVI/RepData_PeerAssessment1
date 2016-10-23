@@ -1,13 +1,8 @@
 
-```{r }
----
-title: "Activity Monitoring Device"
-output: html_document
----
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+# Activity Monitoring Device
 
 ## Introduction
 
@@ -153,6 +148,10 @@ g + geom_line(size=1) +
     labs(title = "Average number of steps per 5-minute interval across weekdays and weekends")
     
 
+```
+```
+```
+```
 ```
 ```
 ```

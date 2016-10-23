@@ -1,19 +1,6 @@
 
 
-```r
----
-title: "Activity Monitoring Device"
-output: html_document
----
-```
-
-```
-## Error: <text>:6:0: unexpected end of input
-## 4: ---
-## 5: 
-##   ^
-```
-
+# Activity Monitoring Device
 
 ## Introduction
 
@@ -242,6 +229,10 @@ g + geom_line(size=1) +
 ```
 
 ![plot of chunk panelPlot](figure/panelPlot-1.png)
+```
+```
+```
+```
 ```
 ```
 ```
